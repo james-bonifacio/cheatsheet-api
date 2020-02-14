@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  page_id: MyString
+  equation_id: MyString
+  coordinates_x: MyString
+  coordinates_y: MyString
+
+two:
+  page_id: MyString
+  equation_id: MyString
+  coordinates_x: MyString
+  coordinates_y: MyString
